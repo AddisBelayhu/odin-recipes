@@ -50,9 +50,10 @@
         }
 
         .cafe-img {
-            height: 200 px;
-            width: 700 px;
+            height: 200px;
+            width: 700px;
         }
+        
         main {
             max-width: 1200px;
             margin: 0 auto;
